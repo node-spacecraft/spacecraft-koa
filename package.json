@@ -1,0 +1,27 @@
+{
+  "name": "spacecraft-koa",
+  "version": "1.0.0",
+  "description": "a koa wrap for spacecraft-framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/node-spacecraft/spacecraft-koa.git"
+  },
+  "keywords": [
+    "moonrailgun"
+  ],
+  "author": "moonrailgun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/node-spacecraft/spacecraft-koa/issues"
+  },
+  "homepage": "https://github.com/node-spacecraft/spacecraft-koa#readme",
+  "dependencies": {
+    "koa": "^2.3.0",
+    "spacecraft": "^1.0.2",
+    "spacecraft-logger": "^1.1.1"
+  }
+}
